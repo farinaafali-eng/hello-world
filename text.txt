@@ -1,0 +1,3 @@
+hello everybody
+i am farina and i am a student
+this is my first GitHub project.
